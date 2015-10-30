@@ -1,0 +1,8 @@
+./026_eval.txt    85.95%  Accuracy
+./027_eval.txt    69.01%  Accuracy
+./028_eval.txt    89.06%  Accuracy
+./029_eval.txt    76.64%  Accuracy
+./030_eval.txt    85.87%  Accuracy
+./031_eval.txt    88.83%  Accuracy
+./032_eval.txt    83.93%  Accuracy
+./033_eval.txt    89.57%  Accuracy

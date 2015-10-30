@@ -1,0 +1,181 @@
+UNLV-ISRI OCR Accuracy Report Version 5.1
+-----------------------------------------
+    1089   Characters
+     363   Errors
+   66.67%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   66.67%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      76      258       29      363   Unmarked
+      76      258       29      363   Total
+
+   Count   Missed   %Right
+       1        1     0.00   Unassigned
+     157       10    93.63   ASCII Spacing Characters
+      52       28    46.15   ASCII Special Symbols
+       9        4    55.56   ASCII Uppercase Letters
+     869      290    66.63   ASCII Lowercase Letters
+       1        1     0.00   Latin1 Lowercase Letters
+    1089      334    69.33   Total
+
+  Errors   Marked   Correct-Generated
+      27        0   {t}-{r}
+      12        0   {c}-{e}
+      12        0   {i}-{l}
+      10        0   {s}-{r}
+       9        0   {i}-{I}
+       8        0   {in}-{m}
+       8        0   {st}-{ſ}
+       8        0   {ti}-{u}
+       6        0   { in}-{m}
+       6        0   {cit}-{elr}
+       6        0   {li}-{h}
+       6        0   {ti}-{rl}
+       5        0   {civit}-{erIr}
+       5        0   {d-<\n>it}-{,<\n>dlr}
+       5        0   {tissi}-{hm}
+       4        0   {aeci}-{mm}
+       4        0   {ci}-{el}
+       4        0   {ct}-{&}
+       4        0   {ffic}-{me}
+       4        0   {iano}-{movl}
+       4        0   {i}-{j}
+       4        0   {li-}-{h, .}
+       4        0   {reis}-{ms,}
+       4        0   {riae}-{nm}
+       4        0   {sili}-{ſh}
+       4        0   {stit}-{rhr}
+       4        0   {t.}-{r}
+       4        0   {t:}-{rger}
+       4        0   {t:}-{r}
+       4        0   {ti}-{n}
+       3        0   { ci}-{el}
+       3        0   {-}-{,}
+       3        0   {.}-{}
+       3        0   {ct}-{dla}
+       3        0   {ct}-{egr}
+       3        0   {f}-{P}
+       3        0   {i c}-{le}
+       3        0   {in-}-{m..}
+       3        0   {ini}-{lm}
+       3        0   {ini}-{mI}
+       3        0   {iri}-{,m}
+       3        0   {ita}-{lm}
+       3        0   {it}-{lr.}
+       3        0   {it}-{uIr}
+       3        0   {i}-{x}
+       3        0   {pin}-{}
+       3        0   {san}-{ſm}
+       3        0   {str}-{ſa}
+       3        0   {tib}-{nh}
+       3        0   {tit}-{nr}
+       3        0   {t}-{e,g}
+       3        0   {}-{,}
+       3        0   {}-{<\n>}
+       3        0   {à f}-{ar}
+       2        0   { c}-{e}
+       2        0   { }-{}
+       2        0   {,}-{}
+       2        0   {-}-{,s}
+       2        0   {-}-{.,}
+       2        0   {-}-{.}
+       2        0   {-}-{nO}
+       2        0   {.}-{,}
+       2        0   {;}-{ ,}
+       2        0   {Qu}-{m}
+       2        0   {Vi}-{Uj}
+       2        0   {V}-{U}
+       2        0   {ae}-{ml}
+       2        0   {ci}-{ex}
+       2        0   {c}-{C}
+       2        0   {c}-{o}
+       2        0   {fo}-{ſa}
+       2        0   {f}-{ſ}
+       2        0   {f}-{r}
+       2        0   {i-}-{I,}
+       2        0   {ia}-{m}
+       2        0   {ib}-{xh}
+       2        0   {it}-{lr}
+       2        0   {j}-{l}
+       2        0   {ni}-{m}
+       2        0   {p}-{P}
+       2        0   {ri}-{n}
+       2        0   {ri}-{}
+       2        0   {r}-{I }
+       2        0   {si}-{ſ}
+       2        0   {ss}-{ſ}
+       2        0   {s}-{p}
+       2        0   {t.}-{r,}
+       2        0   {t;}-{r,}
+       2        0   {ti}-{m}
+       2        0   {tu}-{m}
+       2        0   {}-{ſr}
+       2        0   {}-{Oq}
+       1        0   { }-{r}
+       1        0   {-}-{<\n>}
+       1        0   {﻿}-{}
+       1        0   {a}-{e}
+       1        0   {b}-{h}
+       1        0   {c}-{n}
+       1        0   {e}-{G}
+       1        0   {e}-{d}
+       1        0   {e}-{o}
+       1        0   {f}-{E}
+       1        0   {f}-{}
+       1        0   {i}-{m}
+       1        0   {i}-{}
+       1        0   {s}-{I}
+       1        0   {s}-{P}
+       1        0   {s}-{S}
+       1        0   {t}-{E}
+       1        0   {}-{ }
+       1        0   {}-{.}
+       1        0   {}-{a}
+       1        0   {}-{e}
+       1        0   {}-{u}
+
+   Count   Missed   %Right
+      25        1    96.00   {<\n>}
+     132        9    93.18   { }
+       9        0   100.00   {&}
+      17        2    88.24   {,}
+      13       13     0.00   {-}
+       8        8     0.00   {.}
+       3        3     0.00   {:}
+       2        2     0.00   {;}
+       1        0   100.00   {A}
+       1        0   100.00   {D}
+       1        0   100.00   {I}
+       2        0   100.00   {M}
+       1        1     0.00   {Q}
+       3        3     0.00   {V}
+      93        8    91.40   {a}
+      11        3    72.73   {b}
+      33       32     3.03   {c}
+      25        1    96.00   {d}
+      83        7    91.57   {e}
+      13       13     0.00   {f}
+      12        0   100.00   {g}
+       4        0   100.00   {h}
+      92       92     0.00   {i}
+       3        2    33.33   {j}
+      29        5    82.76   {l}
+      54        0   100.00   {m}
+      70       13    81.43   {n}
+      42        2    95.24   {o}
+      25        3    88.00   {p}
+      13        0   100.00   {q}
+      46        7    84.78   {r}
+      56       29    48.21   {s}
+      70       70     0.00   {t}
+      83        2    97.59   {u}
+       8        1    87.50   {v}
+       4        0   100.00   {x}
+       1        1     0.00   {à}
+       1        1     0.00   {﻿}

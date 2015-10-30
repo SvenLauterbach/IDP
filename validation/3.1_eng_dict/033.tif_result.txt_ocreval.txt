@@ -1,0 +1,124 @@
+UNLV-ISRI OCR Accuracy Report Version 5.1
+-----------------------------------------
+    1093   Characters
+     214   Errors
+   80.42%  Accuracy
+
+       2   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.18%  Characters Marked
+   80.79%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        4        4   Marked
+      24      165       21      210   Unmarked
+      24      165       25      214   Total
+
+   Count   Missed   %Right
+       1        1     0.00   Unassigned
+     150        2    98.67   ASCII Spacing Characters
+      41        6    85.37   ASCII Special Symbols
+       9        0   100.00   ASCII Uppercase Letters
+     892      180    79.82   ASCII Lowercase Letters
+    1093      189    82.71   Total
+
+  Errors   Marked   Correct-Generated
+      61        0   {e}-{c}
+      19        0   {s}-{f}
+      14        0   {si}-{ﬁ}
+       7        0   {}-{ }
+       6        0   {fi}-{ﬁ}
+       4        0   {&}-{6c}
+       4        0   {essi}-{clﬁ}
+       4        0   {este}-{cﬂc}
+       4        0   {rnae}-{mx'}
+       4        0   {se}-{fc}
+       4        0   {s}-{S}
+       3        3   {}-{<\n>~ }
+       3        0   {ect}-{cél}
+       3        0   {em}-{crn}
+       3        0   {eru}-{cm}
+       3        0   {esq}-{ch}
+       3        0   {ess}-{cff}
+       3        0   {est}-{cﬁ}
+       2        0   { s}-{f}
+       2        0   {-}-{.}
+       2        0   {;}-{ 5}
+       2        0   {ae}-{x}
+       2        0   {e }-{cc}
+       2        0   {er}-{a}
+       2        0   {et}-{ac}
+       2        0   {et}-{cu}
+       2        0   {e}-{.c}
+       2        0   {e}-{c }
+       2        0   {e}-{c'}
+       2        0   {m}-{rn}
+       2        0   {oe}-{r}
+       2        0   {ru}-{m}
+       2        0   {se}-{(c}
+       2        0   {se}-{lc}
+       2        0   {se}-{{c}
+       2        0   {ss}-{ﬂ}
+       2        0   {ss}-{ff}
+       2        0   {st}-{ﬂ}
+       2        0   {s}-{(}
+       2        0   {te}-{“:}
+       2        0   {u}-{ll}
+       2        0   {}-{'}
+       1        1   {}-{~}
+       1        0   {,}-{;}
+       1        0   {﻿}-{}
+       1        0   {e}-{a}
+       1        0   {o}-{q}
+       1        0   {s}-{i}
+       1        0   {t}-{:}
+       1        0   {t}-{i}
+       1        0   {t}-{r}
+       1        0   {u}-{i}
+       1        0   {u}-{q}
+       1        0   {}-{:}
+       1        0   {}-{<\n>}
+       1        0   {}-{z}
+
+   Count   Missed   %Right
+      25        0   100.00   {<\n>}
+     125        2    98.40   { }
+       2        2     0.00   {&}
+      17        1    94.12   {,}
+       6        2    66.67   {-}
+      10        0   100.00   {.}
+       3        0   100.00   {:}
+       3        1    66.67   {;}
+       1        0   100.00   {A}
+       1        0   100.00   {C}
+       1        0   100.00   {E}
+       1        0   100.00   {H}
+       1        0   100.00   {I}
+       1        0   100.00   {M}
+       1        0   100.00   {P}
+       1        0   100.00   {U}
+       1        0   100.00   {V}
+      70        2    97.14   {a}
+      14        0   100.00   {b}
+      43        1    97.67   {c}
+      30        0   100.00   {d}
+      95       87     8.42   {e}
+       8        3    62.50   {f}
+      11        0   100.00   {g}
+       8        0   100.00   {h}
+      93       11    88.17   {i}
+       1        0   100.00   {j}
+      33        0   100.00   {l}
+      55        2    96.36   {m}
+      50        1    98.00   {n}
+      53        2    96.23   {o}
+      25        0   100.00   {p}
+      12        1    91.67   {q}
+      61        4    93.44   {r}
+      76       51    32.89   {s}
+      59       10    83.05   {t}
+      79        5    93.67   {u}
+      11        0   100.00   {v}
+       5        0   100.00   {x}
+       1        1     0.00   {﻿}

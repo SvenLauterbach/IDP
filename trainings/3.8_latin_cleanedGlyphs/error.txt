@@ -1,0 +1,164 @@
+﻿Tesseract Open Source OCR Engine v3.02 with Leptonica
+row xheight=41, but median xheight = 28.5405
+row xheight=42, but median xheight = 28.5405
+row xheight=41, but median xheight = 28.5405
+FAIL!
+APPLY_BOXES: boxfile line 4299/T ((224,83),(279,140)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES:
+   Boxes read from boxfile:    4302
+   Boxes failed resegmentation:       1
+   Found 4301 good blobs.
+TRAINING ... Font name = tacitus
+Generated training data for 517 words
+
+Tesseract Open Source OCR Engine v3.02 with Leptonica
+row xheight=41, but median xheight = 28.72
+row xheight=42, but median xheight = 28.72
+row xheight=42, but median xheight = 28.72
+row xheight=43, but median xheight = 28.72
+row xheight=42, but median xheight = 28.72
+row xheight=43, but median xheight = 28.72
+row xheight=41, but median xheight = 28.72
+row xheight=43, but median xheight = 28.72
+row xheight=42, but median xheight = 28.72
+row xheight=43, but median xheight = 28.72
+row xheight=41, but median xheight = 28.72
+APPLY_BOXES:
+   Boxes read from boxfile:    4220
+   Found 4220 good blobs.
+TRAINING ... Font name = tacitus
+Generated training data for 496 words
+
+Tesseract Open Source OCR Engine v3.02 with Leptonica
+APPLY_BOXES:
+   Boxes read from boxfile:    1910
+   Found 1910 good blobs.
+TRAINING ... Font name = tacitus
+Generated training data for 229 words
+
+
+Reading latin.tacitus.exp0.tr ...
+Reading latin.tacitus.exp1.tr ...
+Reading latin.tacitus.exp2.tr ...
+Building master shape table
+Computing shape distances...
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances...
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances...
+Stopped with 0 merged, min dist 999.000000
+Computing shape distances... 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42
+Distance = 0.007874: Distance = 0.017094: Stopped with 2 merged, min dist 0.032000
+Master shape_table:Number of shapes = 41 max unichars = 2 number with multiple unichars = 2
+
+Read shape table shapetable of 41 shapes
+Reading latin.tacitus.exp0.tr ...
+Reading latin.tacitus.exp1.tr ...
+Reading latin.tacitus.exp2.tr ...
+
+
+TessdataManager combined tesseract data files.
+Offset for type 0 is -1
+Offset for type 1 is 140
+Offset for type 2 is -1
+Offset for type 3 is 2908
+Offset for type 4 is 321977
+Offset for type 5 is 322287
+Offset for type 6 is -1
+Offset for type 7 is -1
+Offset for type 8 is -1
+Offset for type 9 is -1
+Offset for type 10 is -1
+Offset for type 11 is -1
+Offset for type 12 is -1
+Offset for type 13 is 330390
+Offset for type 14 is -1
+Offset for type 15 is -1
+Offset for type 16 is -1
+

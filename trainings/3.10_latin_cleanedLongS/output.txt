@@ -1,0 +1,20 @@
+﻿
+
+
+Extracting unicharset from latin.tacitus.exp0.box
+Extracting unicharset from latin.tacitus.exp1.box
+Extracting unicharset from latin.tacitus.exp2.box
+Wrote unicharset file ./unicharset.
+
+
+Done!
+
+Reading latin.tacitus.exp0.tr ...
+Reading latin.tacitus.exp1.tr ...
+Reading latin.tacitus.exp2.tr ...
+Clustering ...
+
+Writing normproto ...
+
+Combining tessdata files
+

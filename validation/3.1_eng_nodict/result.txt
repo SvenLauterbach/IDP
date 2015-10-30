@@ -1,0 +1,8 @@
+   78.39%  Accuracy
+   64.20%  Accuracy
+   77.74%  Accuracy
+   69.42%  Accuracy
+   75.75%  Accuracy
+   74.39%  Accuracy
+   74.66%  Accuracy
+   80.15%  Accuracy
